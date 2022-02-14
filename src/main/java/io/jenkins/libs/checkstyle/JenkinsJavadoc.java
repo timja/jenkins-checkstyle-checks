@@ -18,7 +18,7 @@ import java.util.regex.Pattern;
  * Checks that the javadoc comments follow Jenkins conventions.
  *
  */
-public class JenkinsJavadocCheck extends AbstractCheck {
+public class JenkinsJavadoc extends AbstractCheck {
 
 	public static final int[] NO_REQUIRED_TOKENS = {};
 

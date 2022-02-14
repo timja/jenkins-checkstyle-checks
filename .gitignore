@@ -16,3 +16,4 @@ build
 
 # OS X
 .DS_Store
+checkstyle-*-all.jar
